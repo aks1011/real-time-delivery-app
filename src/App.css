@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+}
